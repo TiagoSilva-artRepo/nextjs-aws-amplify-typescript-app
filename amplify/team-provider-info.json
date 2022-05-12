@@ -10,6 +10,11 @@
       "StackName": "amplify-nextjsawsamplifytype-dev-111857",
       "StackId": "arn:aws:cloudformation:eu-west-1:826134894545:stack/amplify-nextjsawsamplifytype-dev-111857/f145b350-d1dc-11ec-954a-06af829f0613",
       "AmplifyAppId": "d217q3rb2cvelq"
+    },
+    "categories": {
+      "auth": {
+        "nextjsawsamplifytypee2bdd768": {}
+      }
     }
   }
 }
